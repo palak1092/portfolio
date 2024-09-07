@@ -317,6 +317,7 @@ main {
   font-weight: 500;
   font-size: 0.8rem;
   color: var(--clr-fg-alt);
+  display: block;
 }
 
 .project .link--icon {
